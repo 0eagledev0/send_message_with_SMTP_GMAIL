@@ -29,8 +29,8 @@ Before running the project, make sure you have the following installed:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/0eagledev0/send_message_with_SMTP_GMAIL.git
+    cd send_message_with_SMTP_GMAIL
     ```
 
 2. Ensure that the necessary dependencies are installed.
