@@ -25,8 +25,8 @@ Ce projet est une application Python utilisant la bibliothèque Tkinter pour cr�
 
 1. Clonez le dépôt sur votre machine locale :
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-repo.git
-    cd votre-repo
+   git clone https://github.com/0eagledev0/send_message_with_SMTP_GMAIL.git
+   cd send_message_with_SMTP_GMAIL
     ```
 
 2. Assurez-vous que les dépendances nécessaires sont installées.
